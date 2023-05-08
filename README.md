@@ -9,7 +9,7 @@ Project Contributors:
 *Blake Koestner
 *Kasey Denton
 *Immanuel Jackson
-<br><br>
+<br><br><br><br><br>
 Copy or Reference of this site welcomed. 
 
 Site is not very dynamic, and was made for a set viewport (1920px x 969px) to display on a projector

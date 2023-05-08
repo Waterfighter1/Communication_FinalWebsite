@@ -1,4 +1,4 @@
-# Communication_FinalWebsite
+# Communication Final Website
 
 ### This is the Final Project Website for my group project in COM-100 SEC 105
 

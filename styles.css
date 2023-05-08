@@ -1,0 +1,112 @@
+body {
+    background-color: black;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    color: white;
+    font-family: 'Kotta One', serif;
+}
+
+nav {
+    width: 100%;
+    height:65px;
+    background-color:#272727;
+    display: flex;
+}
+
+.mainLinks {
+    width: 50%;
+    display: flex;
+    float: right;
+    height: 100%;
+    float: right;
+}
+
+.homeLink {
+    width: 50%;
+    height: 100%;
+    display: flex;
+}
+
+a {
+    width: 33%;
+    margin-left: .15%;
+    margin-right: .15%;
+    text-align: center;
+    height: 100%;
+    line-height: 65px;
+    text-decoration: none;
+    color: white;
+}
+
+a.home {
+    text-align: center;
+    float: none;
+    width: 25%;
+    margin-right: 75%;
+}
+
+.banner {
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+}
+
+.banner_logo {
+    width: 65%;
+    margin-left:17.5%;
+    margin-right: 17.5%;
+    object-fit: cover;
+    height: 450px;
+}
+
+hr {
+    width: 20%;
+    margin-top: -25px;
+    margin-left:40%;
+    margin-right: 40%;
+    border-color: #6E59F5;
+    border-width: 10px;
+    border-style: solid;
+
+}
+
+p.bannerTxt {
+    color: white;
+    text-align: center;
+    font-family: 'Itim', cursive;
+    padding-top: 20px;
+    font-size: 30px;
+}
+
+.homeSections {
+    width: 100%;
+    background-color: black;
+    height: 500px;
+    margin-top: 80px;
+    display: flex;
+}
+
+.section {
+    width: 48%;
+    background-color:#272727;
+    margin-left: 1%;
+    margin-right: 1%;
+    height: 100%;
+}
+
+.sectionHead {
+    font-family: 'Koulen', cursive;
+    text-align: center;
+    font-size: 45px;
+    color: #9A8BF4;
+    font-weight: lighter;
+}
+
+.sectionText {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+}

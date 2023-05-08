@@ -1,6 +1,6 @@
 # Communication_FinalWebsite
 
-###This is the Final Project Website for my group project in COM-100 SEC 105
+### This is the Final Project Website for my group project in COM-100 SEC 105
 
 This website is based off the concept of a blend between Fornite and Dr.Squach for making a soap line. 
 
